@@ -1,3 +1,3 @@
 # bimm143
-bioinformatics at UCSD 
+bioinformatics at UC San Diego
 
