@@ -3,4 +3,4 @@ bioinformatics at UC San Diego
 
 Here is a portofilio of my work for [BIMM143](https://bioboot.github.io/bimm143_F22/).
 
-- Class 10: [Halloween Candy Mini-Project]()[code]()
+- Class 10: [Halloween Candy Mini-Project](https://drive.google.com/file/d/19CAOeQOUAgXFjBk4_ikJ4Jp_Li9TFyMg/view?usp=sharing)
